@@ -3,7 +3,7 @@ def my_hash()
   your_hash = {"gold" => "money","silver"=>"coin"}
   
 puts my_hash
-binding.pry
+
 end
 
 def shipping_manifest(the_manifest)
