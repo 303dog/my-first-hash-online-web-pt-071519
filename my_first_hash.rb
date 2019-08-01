@@ -1,5 +1,5 @@
 
-def my_hash(your_hash{})
+def my_hash(your_hash())
   your_hash = {"gold" => "money","silver"=>"coin"}
 end   
     puts my_hash
