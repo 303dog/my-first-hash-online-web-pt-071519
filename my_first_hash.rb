@@ -1,9 +1,7 @@
 require.pry
 def my_hash()
   your_hash = {"gold" => "money","silver"=>"coin"}
-  
-puts my_hash
-
+    puts my_hash
 end
 
 def shipping_manifest(the_manifest)
