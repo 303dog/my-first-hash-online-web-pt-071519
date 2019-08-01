@@ -1,5 +1,5 @@
 require.pry
-def my_hash()
+def my_hash(your_hash)
   your_hash = {"gold" => "money","silver"=>"coin"}
     puts my_hash
 end
