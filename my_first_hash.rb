@@ -34,3 +34,4 @@ def adding
 
 
 end
+binding.pry
