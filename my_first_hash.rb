@@ -2,7 +2,7 @@
 def my_hash(your_hash)
   your_hash = {"gold" => "money","silver"=>"coin"}
 end   
-    puts my_hash
+    puts "Here is the list #{my_hash}"
 
 
 def shipping_manifest(the_manifest)
