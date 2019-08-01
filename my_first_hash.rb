@@ -10,7 +10,7 @@ def shipping_manifest(the_manifest)
 
 end
 
-def retrieval
+def retrieval()
   shipping_manifest = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
@@ -21,7 +21,7 @@ def retrieval
 
 end
 
-def adding
+def adding()
   shipping_manifest = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
@@ -34,4 +34,3 @@ def adding
 
 
 end
-binding.pry
